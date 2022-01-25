@@ -1,0 +1,16 @@
+.contenido_menu {
+    margin: 20px;
+}
+
+.contenido_menu p{
+    background-color:rgb(119, 209, 209) ;
+    width: 100px;
+}
+
+.contenido_menu a:hover {
+color: red;
+}
+
+.contenido_menu a:visited{
+    color: green;
+}
